@@ -1,0 +1,145 @@
+﻿Skill_ID,Skill_en,Description_en
+0,Active Learning,Understanding the implications of new information for both current and future problem-solving and decision-making.
+1,Active Listening,"Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times."
+2,Complex Problem Solving,Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+3,Coordination,Adjusting actions in relation to others' actions.
+4,Critical Thinking,"Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems."
+5,Equipment Maintenance,Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.
+6,Equipment Selection,Determining the kind of tools and equipment needed to do a job.
+7,Installation,"Installing equipment, machines, wiring, or programs to meet specifications."
+8,Instructing,Teaching others how to do something.
+9,Judgment and Decision Making,Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+10,Learning Strategies,Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.
+11,Management of Financial Resources,"Determining how money will be spent to get the work done, and accounting for these expenditures."
+12,Management of Material Resources,"Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work."
+13,Management of Personnel Resources,"Motivating, developing, and directing people as they work, identifying the best people for the job."
+14,Mathematics,Using mathematics to solve problems.
+15,Monitoring,"Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action."
+16,Negotiation,Bringing others together and trying to reconcile differences.
+17,Operation and Control,Controlling operations of equipment or systems.
+18,Operations Analysis,Analyzing needs and product requirements to create a design.
+19,Operations Monitoring,"Watching gauges, dials, or other indicators to make sure a machine is working properly."
+20,Persuasion,Persuading others to change their minds or behavior.
+21,Programming,Writing computer programs for various purposes.
+22,Quality Control Analysis,"Conducting tests and inspections of products, services, or processes to evaluate quality or performance."
+23,Reading Comprehension,Understanding written sentences and paragraphs in work-related documents.
+24,Repairing,Repairing machines or systems using the needed tools.
+25,Science,Using scientific rules and methods to solve problems.
+26,Service Orientation,Actively looking for ways to help people.
+27,Social Perceptiveness,Being aware of others' reactions and understanding why they react as they do.
+28,Speaking,Talking to others to convey information effectively.
+29,Systems Analysis,"Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes."
+30,Systems Evaluation,"Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
+31,Technology Design,Generating or adapting equipment and technology to serve user needs.
+32,Time Management,Managing one's own time and the time of others.
+33,Troubleshooting,Determining causes of operating errors and deciding what to do about it.
+34,Writing,Communicating effectively in writing as appropriate for the needs of the audience.
+35,Arm-Hand Steadiness,The ability to keep your hand and arm steady while moving your arm or while holding your arm and hand in one position.
+36,Auditory Attention,The ability to focus on a single source of sound in the presence of other distracting sounds.
+37,Category Flexibility,The ability to generate or use different sets of rules for combining or grouping things in different ways.
+38,Control Precision,The ability to quickly and repeatedly adjust the controls of a machine or a vehicle to exact positions.
+39,Deductive Reasoning,The ability to apply general rules to specific problems to produce answers that make sense.
+40,Depth Perception,"The ability to judge which of several objects is closer or farther away from you, or to judge the distance between you and an object."
+41,Dynamic Flexibility,"The ability to quickly and repeatedly bend, stretch, twist, or reach out with your body, arms, and/or legs."
+42,Dynamic Strength,The ability to exert muscle force repeatedly or continuously over time. This involves muscular endurance and resistance to muscle fatigue.
+43,Explosive Strength,"The ability to use short bursts of muscle force to propel oneself (as in jumping or sprinting), or to throw an object."
+44,Extent Flexibility,"The ability to bend, stretch, twist, or reach with your body, arms, and/or legs."
+45,Far Vision,The ability to see details at a distance.
+46,Finger Dexterity,"The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects."
+47,Flexibility of Closure,"The ability to identify or detect a known pattern (a figure, object, word, or sound) that is hidden in other distracting material."
+48,Fluency of Ideas,"The ability to come up with a number of ideas about a topic (the number of ideas is important, not their quality, correctness, or creativity)."
+49,Glare Sensitivity,The ability to see objects in the presence of a glare or bright lighting.
+50,Gross Body Coordination,"The ability to coordinate the movement of your arms, legs, and torso together when the whole body is in motion."
+51,Gross Body Equilibrium,The ability to keep or regain your body balance or stay upright when in an unstable position.
+52,Hearing Sensitivity,The ability to detect or tell the differences between sounds that vary in pitch and loudness.
+53,Inductive Reasoning,The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
+54,Information Ordering,"The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations)."
+55,Manual Dexterity,"The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects."
+56,Mathematical Reasoning,The ability to choose the right mathematical methods or formulas to solve a problem.
+57,Memorization,"The ability to remember information such as words, numbers, pictures, and procedures."
+58,Multilimb Coordination,"The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion."
+59,Near Vision,The ability to see details at close range (within a few feet of the observer).
+60,Night Vision,The ability to see under low-light conditions.
+61,Number Facility,"The ability to add, subtract, multiply, or divide quickly and correctly."
+62,Oral Comprehension,The ability to listen to and understand information and ideas presented through spoken words and sentences.
+63,Oral Expression,The ability to communicate information and ideas in speaking so others will understand.
+64,Originality,"The ability to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem."
+65,Perceptual Speed,"The ability to quickly and accurately compare similarities and differences among sets of letters, numbers, objects, pictures, or patterns. The things to be compared may be presented at the same time or one after the other. This ability also includes comparing a presented object with a remembered object."
+66,Peripheral Vision,The ability to see objects or movement of objects to one's side when the eyes are looking ahead.
+67,Problem Sensitivity,"The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing that there is a problem."
+68,Rate Control,The ability to time your movements or the movement of a piece of equipment in anticipation of changes in the speed and/or direction of a moving object or scene.
+69,Reaction Time,"The ability to quickly respond (with the hand, finger, or foot) to a signal (sound, light, picture) when it appears."
+70,Response Orientation,"The ability to choose quickly between two or more movements in response to two or more different signals (lights, sounds, pictures). It includes the speed with which the correct response is started with the hand, foot, or other body part."
+71,Selective Attention,The ability to concentrate on a task over a period of time without being distracted.
+72,Sound Localization,The ability to tell the direction from which a sound originated.
+73,Spatial Orientation,The ability to know your location in relation to the environment or to know where other objects are in relation to you.
+74,Speech Clarity,The ability to speak clearly so others can understand you.
+75,Speech Recognition,The ability to identify and understand the speech of another person.
+76,Speed of Closure,"The ability to quickly make sense of, combine, and organize information into meaningful patterns."
+77,Speed of Limb Movement,The ability to quickly move the arms and legs.
+78,Stamina,The ability to exert yourself physically over long periods of time without getting winded or out of breath.
+79,Static Strength,"The ability to exert maximum muscle force to lift, push, pull, or carry objects."
+80,Time Sharing,"The ability to shift back and forth between two or more activities or sources of information (such as speech, sounds, touch, or other sources)."
+81,Trunk Strength,"The ability to use your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without ""giving out"" or fatiguing."
+82,Visual Color Discrimination,"The ability to match or detect differences between colors, including shades of color and brightness."
+83,Visualization,The ability to imagine how something will look after it is moved around or when its parts are moved or rearranged.
+84,Wrist-Finger Speed,"The ability to make fast, simple, repeated movements of the fingers, hands, and wrists."
+85,Written Comprehension,The ability to read and understand information and ideas presented in writing.
+86,Written Expression,The ability to communicate information and ideas in writing so others will understand.
+87,Analyzing Data or Information,"Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts."
+88,Assisting and Caring for Others,"Providing personal assistance, medical attention, emotional support, or other personal care to others such as coworkers, customers, or patients."
+89,Coaching and Developing Others,"Identifying the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills."
+90,Communicating with People Outside the Organization,"Communicating with people outside the organization, representing the organization to customers, the public, government, and other external sources. This information can be exchanged in person, in writing, or by telephone or e-mail."
+91,"Communicating with Supervisors, Peers, or Subordinates","Providing information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person."
+92,Controlling Machines and Processes,Using either control mechanisms or direct physical activity to operate machines or processes (not including computers or vehicles).
+93,Coordinating the Work and Activities of Others,Getting members of a group to work together to accomplish tasks.
+94,Developing Objectives and Strategies,Establishing long-range objectives and specifying the strategies and actions to achieve them.
+95,Developing and Building Teams,"Encouraging and building mutual trust, respect, and cooperation among team members."
+96,Documenting/Recording Information,"Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic form."
+97,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment","Providing documentation, detailed instructions, drawings, or specifications to tell others about how devices, parts, equipment, or structures are to be fabricated, constructed, assembled, modified, maintained, or used."
+98,Establishing and Maintaining Interpersonal Relationships,"Developing constructive and cooperative working relationships with others, and maintaining them over time."
+99,"Estimating the Quantifiable Characteristics of Products, Events, or Information","Estimating sizes, distances, and quantities; or determining time, costs, resources, or materials needed to perform a work activity."
+100,Evaluating Information to Determine Compliance with Standards,"Using relevant information and individual judgment to determine whether events or processes comply with laws, regulations, or standards."
+101,Getting Information,"Observing, receiving, and otherwise obtaining information from all relevant sources."
+102,"Guiding, Directing, and Motivating Subordinates","Providing guidance and direction to subordinates, including setting performance standards and monitoring performance."
+103,Handling and Moving Objects,"Using hands and arms in handling, installing, positioning, and moving materials, and manipulating things."
+104,"Identifying Objects, Actions, and Events","Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events."
+105,"Inspecting Equipment, Structures, or Materials","Inspecting equipment, structures, or materials to identify the cause of errors or other problems or defects."
+106,Interpreting the Meaning of Information for Others,Translating or explaining what information means and how it can be used.
+107,"Judging the Qualities of Objects, Services, or People","Assessing the value, importance, or quality of things or people."
+108,Making Decisions and Solving Problems,Analyzing information and evaluating results to choose the best solution and solve problems.
+109,"Monitoring Processes, Materials, or Surroundings","Monitoring and reviewing information from materials, events, or the environment, to detect or assess problems."
+110,Monitoring and Controlling Resources,Monitoring and controlling resources and overseeing the spending of money.
+111,"Operating Vehicles, Mechanized Devices, or Equipment","Running, maneuvering, navigating, or driving vehicles or mechanized equipment, such as forklifts, passenger vehicles, aircraft, or watercraft."
+112,"Organizing, Planning, and Prioritizing Work","Developing specific goals and plans to prioritize, organize, and accomplish your work."
+113,Performing Administrative Activities,Performing day-to-day administrative tasks such as maintaining information files and processing paperwork.
+114,Performing General Physical Activities,"Performing general physical activities includes doing activities that require considerable use of your arms and legs and moving your whole body, such as climbing, lifting, balancing, walking, stooping, and handling materials."
+115,Performing for or Working Directly with the Public,"Performing for people or dealing directly with the public. This includes serving customers in restaurants and stores, and receiving clients or guests."
+116,Processing Information,"Compiling, coding, categorizing, calculating, tabulating, auditing, or verifying information or data."
+117,Providing Consultation and Advice to Others,"Providing guidance and expert advice to management or other groups on technical, systems-, or process-related topics."
+118,Repairing and Maintaining Electronic Equipment,"Servicing, repairing, calibrating, regulating, fine-tuning, or testing machines, devices, and equipment that operate primarily on the basis of electrical or electronic (not mechanical) principles."
+119,Repairing and Maintaining Mechanical Equipment,"Servicing, repairing, adjusting, and testing machines, devices, moving parts, and equipment that operate primarily on the basis of mechanical (not electronic) principles."
+120,Resolving Conflicts and Negotiating with Others,"Handling complaints, settling disputes, and resolving grievances and conflicts, or otherwise negotiating with others."
+121,Scheduling Work and Activities,"Scheduling events, programs, and activities, as well as the work of others."
+122,Selling or Influencing Others,Convincing others to buy merchandise/goods or to otherwise change their minds or actions.
+123,Staffing Organizational Units,"Recruiting, interviewing, selecting, hiring, and promoting employees in an organization."
+124,Thinking Creatively,"Developing, designing, or creating new applications, ideas, relationships, systems, or products, including artistic contributions."
+125,Training and Teaching Others,"Identifying the educational needs of others, developing formal educational or training programs or classes, and teaching or instructing others."
+126,Updating and Using Relevant Knowledge,Keeping up-to-date technically and applying new knowledge to your job.
+127,Working with Computers,"Using computers and computer systems (including hardware and software) to program, write software, set up functions, enter data, or process information."
+128,Achievement/Effort,"Occupations that satisfy this work value are results oriented and allow employees to use their strongest abilities, giving them a feeling of accomplishment. Corresponding needs are Ability Utilization and Achievement."
+129,Adaptability/Flexibility,"A tendency to be open to and comfortable with change, new experiences, or ideas at work."
+130,Analytical Thinking,A tendency to analyze information and use logic to address work-related issues and problems.
+131,Attention to Detail,"A tendency to be detail-oriented, organized, and thorough in completing work."
+132,Concern for Others,A tendency to show concern for others and be sensitive to others' needs and feelings at work.
+133,Cooperation,"A tendency to be pleasant, helpful, and willing to assist others at work."
+134,Dependability,"A tendency to be reliable, responsible, and consistent in meeting work-related obligations."
+135,Independence,Workers on this job do their work alone.
+136,Initiative,A tendency to be proactive and take on extra responsibilities and tasks that may fall outside of one's required work role.
+137,Innovation,"A tendency to be inventive, to be imaginative, and to adopt new perspectives on ways to accomplish work."
+138,Integrity,A tendency to be honest and ethical at work.
+139,Leadership,"A tendency to lead, take charge, offer opinions, and provide direction at work."
+140,Persistence,A tendency to exhibit determination and resolve to perform or complete tasks in the face of difficult circumstances or obstacles at work.
+141,Self-Control,A tendency to remain calm and composed and to manage emotions effectively in response to criticism or difficult situations at work.
+142,Social Orientation,"A tendency to seek out, enjoy, and be energized by social interaction at work."
+143,Stress Tolerance,A tendency to cope and function effectively in stressful situations at work.

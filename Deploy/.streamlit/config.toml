@@ -1,0 +1,10 @@
+[theme]
+# Forces the app to always use a light theme
+base="light"
+
+# BrainsFirst Brand Colors 
+primaryColor="#41C5C5"             # The Vibrant Cyan (Used for sliders, buttons, accents)
+backgroundColor="#FFFFFF"          # White main background
+secondaryBackgroundColor="#3A506B" # The Teal color (Used for the Sidebar background)
+textColor="#1A1A1A"                # Dark text for readability
+font="sans serif"                  # Fallback font until Poppins loads
