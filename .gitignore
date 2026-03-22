@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Excel files
+*.xlsx
+
+# HTML files
+*.html
+
+# CSV files in the root
+*.csv
